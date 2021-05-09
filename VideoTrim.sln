@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VideoTrim", "WindowsApp1\VideoTrim.vbproj", "{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Debug|x64.ActiveCfg = Debug|x64
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Debug|x64.Build.0 = Debug|x64
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Debug|x86.ActiveCfg = Debug|x86
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Debug|x86.Build.0 = Debug|x86
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Release|x64.ActiveCfg = Release|x64
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Release|x64.Build.0 = Release|x64
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Release|x86.ActiveCfg = Release|x86
+		{B3DB2F96-207C-4409-9D87-6EEC8BA4DDFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D6F408-CF98-445C-A01E-B01499A06777}
+	EndGlobalSection
+EndGlobal

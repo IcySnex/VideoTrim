@@ -1,0 +1,14 @@
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\obj\Debug\VideoTrim.Resources.resources
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\bin\Debug\VideoTrim.exe.config
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\bin\Debug\VideoTrim.exe
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\bin\Debug\VideoTrim.pdb
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\bin\Debug\VideoTrim.xml
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\obj\Debug\VideoTrim.exe
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\obj\Debug\VideoTrim.xml
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\obj\Debug\VideoTrim.pdb
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\obj\Debug\VideoTrim.about.resources
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\obj\Debug\VideoTrim.VideoTrim.resources
+C:\Users\Kevin\Desktop\VideoTrim\WindowsApp1\obj\Debug\VideoTrim.UC_queue.resources
